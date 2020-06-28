@@ -1,10 +1,12 @@
 {
-    "minimumVersion": 1,
-    "packages": [
-        {
-            "name": "Viped Client 1.8.9",
-            "title": "Viped Client",
-            "version": "1.0.1",
-            "location": "viped-client.json",
-            "priority": 1
-        }
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Viped Client",
+      "name" : "Viped Client",
+      "version" : "1.0.1",
+      "location" : "viped-client.json",
+      "priority" : 1
+    }
+  ]
+}
