@@ -2,18 +2,9 @@
     "minimumVersion": 1,
     "packages": [
         {
-            "name": "Light Modpack",
-            "title": "Light Modpack",
-            "version": "20100223",
-            "location": "lightpack.json",
-            "priority": 1
-        },
-        {
-            "name": "Monster Modpack",
-            "title": "Monster Modpack",
-            "version": "20100223",
-            "location": "monsterpack.json",
+            "name": "Viped Client 1.8.9",
+            "title": "Viped Client",
+            "version": "1.0.1",
+            "location": "viped-client.json",
             "priority": 1
         }
-    ]
-}
